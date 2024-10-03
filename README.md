@@ -114,4 +114,3 @@ db.setPassword("your_db_password"); // ваш пароль БД
         timestamp TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
         is_read BOOLEAN DEFAULT FALSE
     );
-    ```
